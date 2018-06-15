@@ -1,0 +1,17 @@
+e:\source\repos\pcsc2Text\pcsc2Text\bin\Debug\pcsc2Text.exe.config
+e:\source\repos\pcsc2Text\pcsc2Text\bin\Debug\pcsc2Text.exe
+e:\source\repos\pcsc2Text\pcsc2Text\bin\Debug\pcsc2Text.pdb
+e:\source\repos\pcsc2Text\pcsc2Text\obj\Debug\pcsc2Text.Properties.Resources.resources
+e:\source\repos\pcsc2Text\pcsc2Text\obj\Debug\pcsc2Text.frmReport.resources
+e:\source\repos\pcsc2Text\pcsc2Text\obj\Debug\pcsc2Text.csproj.GenerateResource.cache
+e:\source\repos\pcsc2Text\pcsc2Text\obj\Debug\pcsc2Text.csproj.CoreCompileInputs.cache
+e:\source\repos\pcsc2Text\pcsc2Text\obj\Debug\pcsc2Text.exe
+e:\source\repos\pcsc2Text\pcsc2Text\obj\Debug\pcsc2Text.pdb
+e:\source\repos\pcsc2Text\pcsc2Text\obj\Debug\pcsc2Text.frmConfiguration.resources
+e:\source\repos\pcsc2Text\pcsc2Text\obj\Debug\pcsc2Text.FrmMain.resources
+e:\source\repos\pcsc2Text\pcsc2Text\obj\Debug\pcsc2Text.csprojAssemblyReference.cache
+e:\source\repos\pcsc2Text\pcsc2Text\bin\Debug\pcsc2Text.exe.manifest
+e:\source\repos\pcsc2Text\pcsc2Text\bin\Debug\pcsc2Text.application
+e:\source\repos\pcsc2Text\pcsc2Text\obj\Debug\pcsc2Text.TrustInfo.xml
+e:\source\repos\pcsc2Text\pcsc2Text\obj\Debug\pcsc2Text.exe.manifest
+e:\source\repos\pcsc2Text\pcsc2Text\obj\Debug\pcsc2Text.application
